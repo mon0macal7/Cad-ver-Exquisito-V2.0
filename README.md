@@ -10,3 +10,9 @@ Trabajaban juntos con mucha felicidad, hasta que de pronto ambos tuvieron proble
 
 ## Fotitos de la clase Bugs
 BUGS BOOTCAMP OCTUBRE 2021![BugsBootcamp](./assets/2Bugs.jpg) CATY LA ORUGA ![BugsBootcamp](./assets/Caty.jpg) CATO EL ORUGO ![BugsBootcamp](./assets/Cato.jpg)
+
+!Con sus ultrasuperpoderes se unió con Kati para combatir las injusticias y las fuerzas del mal!
+De esa forma de enseñó a debuguear, aunque el término "debuguear" de pronto se les hacía un poco ofensivo, pero ellos sabían la etimológía de aquella palabra llena de historia. 
+
+Cierto día le llegó un regalo misterioso, al parecer ese regalo venía de troya (o al menos eso decía la caja) ¿a caso será una trampa?
+
