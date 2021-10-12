@@ -9,7 +9,7 @@ Por su envidia comenzaron a salirle espinas en el cuerpo y nadie más queria ace
 Trabajaban juntos con mucha felicidad, hasta que de pronto ambos tuvieron problemas en el merge. Querían morirse, además de matarse mutuamente. Pero mantuvieron la calma porque sabían que con los comandos correctos podían solucionar todo. A pesar de estar tan cerca uno de otro... Pero alguien se equivocó al hacer el merge, hubo un problema, en ese momento se creo un conflicto con 2 ramas paralelas, en la primera Cato era compañero de Caty, e intentaban limar las diferencias, en la otra rama Kato, con "K", por las noches se ponia un antifaz y luchaba por la justicia, era el chofer del avispon verde y sabia kung-fu, waaaa!!!
 
 ## Fotitos de la clase Bugs
-BUGS BOOTCAMP OCTUBRE 2021![BugsBootcamp](./assets/2Bugs.jpg) CATY LA ORUGA ![BugsBootcamp](./assets/Caty.jpg) CATO EL ORUGO ![BugsBootcamp](./assets/Cato.jpg)
+BUGS BOOTCAMP OCTUBRE 2021![BugsBootcamp](https://github.com/mon0macal7/Cadaver-Exquisito-V2.0/blob/development/Assets/2Bugs.jpg) CATY LA ORUGA ![BugsBootcamp](https://github.com/mon0macal7/Cadaver-Exquisito-V2.0/blob/development/Assets/Caty.jpg) CATO EL ORUGO ![BugsBootcamp](https://github.com/mon0macal7/Cadaver-Exquisito-V2.0/blob/development/Assets/Cato.jpg)
 
 !Con sus ultrasuperpoderes se unió con Kati para combatir las injusticias y las fuerzas del mal!
 De esa forma de enseñó a debuguear, aunque el término "debuguear" de pronto se les hacía un poco ofensivo, pero ellos sabían la etimológía de aquella palabra llena de historia. 
